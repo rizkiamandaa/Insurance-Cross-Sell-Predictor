@@ -51,16 +51,6 @@ Get your free API key at [aistudio.google.com](https://aistudio.google.com) and 
 
 *Results may vary slightly depending on train/test split.*
 
-## 🔍 Upgrade from Basic Version
-
-| Before (Rakamin Bootcamp) | After (This App) |
-|---|---|
-| Logistic Regression + Random Forest | **XGBoost** with hyperparameter tuning |
-| Accuracy metric only | **ROC-AUC, Precision, Recall** |
-| Jupyter Notebook output | **Interactive Streamlit app** |
-| No explanation | **SHAP waterfall chart per prediction** |
-| No AI | **Gemini AI business insight** |
-
 ---
 
 Built by **Rizki Amanda Putri** · [GitHub](https://github.com/rizkiamandaa) · [LinkedIn](https://linkedin.com/in/rizkiamandaa)
