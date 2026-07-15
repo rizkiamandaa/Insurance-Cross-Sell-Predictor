@@ -21,7 +21,7 @@ An upgraded ML pipeline for predicting whether health insurance customers will p
 ![Prediction](assets/02_Prediction.png)
 
 ### Feature Importance
-![Feature Importance](assets/03_Feature_Importance.png)
+![Feature Importance](assets/03_FeatureImportance.png)
 
 ### Dataset Overview
 ![Dataset](assets/04_Dataset.png)
