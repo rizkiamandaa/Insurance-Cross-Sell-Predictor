@@ -62,6 +62,11 @@ Get your free API key at [aistudio.google.com](https://aistudio.google.com) and 
 |---|---|
 | Accuracy | ~70.8% |
 | ROC-AUC | ~0.85 |
+| Precision (Class 1) | ~28.5% |
+| Recall (Class 1) | ~91.9% |
+
+> **Note:** The dataset is heavily imbalanced (only 12.3% positive class).
+> The model is optimized for **high recall** to minimize missed cross-sell opportunities — prioritizing catching all potential buyers over reducing false positives. This trade-off is intentional and appropriate for insurance sales use cases.
 
 *Results may vary slightly depending on train/test split.*
 
