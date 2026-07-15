@@ -15,16 +15,16 @@ An upgraded ML pipeline for predicting whether health insurance customers will p
 ## 📸 App Screenshots
 
 ### Dashboard & Input
-![Dashboard](assets/01. Dashboard -Insurance Cross-Sell Predictor.png)
+![Dashboard](assets/01_Dashboard.png)
 
 ### Prediction Result & AI Insight  
-![Prediction](assets/02. Prediction Result & AI Insight - Insurance Cross-Sell Predictor.png)
+![Prediction](assets/02_Prediction.png)
 
 ### Feature Importance
-![Feature Importance](assets/03. Feature Importance - Insurance Cross-Sell Predictor.png)
+![Feature Importance](assets/03_Feature_Importance.png)
 
 ### Dataset Overview
-![Dataset](assets/04. Dataset Overview - Insurance Cross-Sell Predictor.png)
+![Dataset](assets/04_Dataset.png)
 
 ## 📊 Dataset
 
