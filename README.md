@@ -43,7 +43,7 @@ Upload `train.csv` directly in the app sidebar.
 ```bash
 # Clone this repo
 git clone https://github.com/rizkiamandaa/Insurance-Cross-Sell-Predictor
-cd Insurance-CrossSell-Predictor
+cd Insurance-Cross-Sell-Predictor
 
 # Install dependencies
 pip install -r requirements.txt
