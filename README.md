@@ -27,7 +27,7 @@ An upgraded ML pipeline for predicting whether health insurance customers will p
 ![Dataset](assets/04__Dataset_Overview.png)
 
 ### Threshold Analysis
-![Dataset](assets/05__Threshold_Analysis.png)
+![Dataset](assets/05_Threshold_Analysis.png)
 
 ## 📊 Dataset
 
