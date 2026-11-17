@@ -15,16 +15,19 @@ An upgraded ML pipeline for predicting whether health insurance customers will p
 ## 📸 App Screenshots
 
 ### Dashboard & Input
-![Dashboard](assets/01_Dashboard.png)
+![Dashboard](assets/01__Dashboard.png)
 
 ### Prediction Result & AI Insight  
-![Prediction](assets/02_Prediction.png)
+![Prediction](assets/02__Prediction.png)
 
 ### Feature Importance
-![Feature Importance](assets/03_Feature_Importance.png)
+![Feature Importance](assets/03__Feature_Importance.png)
 
 ### Dataset Overview
-![Dataset](assets/04_Dataset.png)
+![Dataset](assets/04__Dataset_Overview.png)
+
+### Threshold Analysis
+![Dataset](assets/05__Threshold_Analysis.png)
 
 ## 📊 Dataset
 
