@@ -77,6 +77,7 @@ The positive class is only 12.3% of the data, so a random list of customers woul
 Predicted probabilities from a class-weighted model are not calibrated, so the score should be read as a ranking score, not a literal probability. Choose the threshold from the table according to the cost of contacting a customer.
 
 | **Threshold** | **Precision** | **Recall** | **F1** | **Customers Contacted** |
+|---|---|---|---|---|
 | 0.3 | 25.6% | 97.6% | 0.406 | 46.7% |
 | 0.4 | 26.5% | 96.2% | 0.416 | 44.4% |
 | 0.5 | 28.5% | 91.9% | 0.435 | 39.4% |
@@ -84,16 +85,17 @@ Predicted probabilities from a class-weighted model are not calibrated, so the s
 | 0.7 | 33.5% | 71.2% | 0.456 | 26.0% |
 | 0.8 | 40.0% | 23.0% | 0.292 | 7.0% |
 
-**Gain / Lift ** : contacting the highest-scored customers first.
+**Gain / Lift** : contacting the highest-scored customers first.
 
 | **Top % Contacted** | **Buyers Captured** | **Lift** |
+|---|---|---|
 | 10% | 31.3% | 3.13x |
 | 20% | 57.5% | 2.88x |
 | 30% | 78.8% | 2.63x |
 | 40% | 92.5% | 2.31x |
 | 50% | 98.7% | 1.97x |
 
-** ⚠️ Limitations **
+**⚠️ Limitations**
 - One train/test split and fixed hyperparameters; no cross-validation or tuning.
 - Scores are uncalibrated (see above), so very high thresholds (0.9) return no customers.
 - Policy_Sales_Channel is an anonymized code. The app reports each channel's conversion rate but not what the channel is, and the Gemini text describes associations in the data, not causes.
